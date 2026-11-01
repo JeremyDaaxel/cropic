@@ -2,6 +2,8 @@
 
 App de escritorio para recortar fotos para Instagram. Quita la interfaz de las capturas de pantalla, detecta la cara y propone encuadres. También parte una foto en carrusel y prepara fotos de carnet listas para imprimir.
 
+![Cropic partiendo una foto en un carrusel de 3 piezas, con la vista previa de Instagram](docs/captura.png)
+
 ## Qué hace
 
 - Recorta automáticamente las capturas de Instagram: barra de estado, cabecera, botones y comentarios.
